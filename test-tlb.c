@@ -5,6 +5,7 @@
 #include <sys/time.h>
 #include <fcntl.h>
 #include <unistd.h>
+#include <windows.h>
 #include <stdio.h>
 #include <stdarg.h>
 #include <stdlib.h>
